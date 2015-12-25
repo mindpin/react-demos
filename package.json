@@ -1,0 +1,25 @@
+{
+  "name": "react-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindpin/react-demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindpin/react-demos/issues"
+  },
+  "homepage": "https://github.com/mindpin/react-demos#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cjsx": "^3.0.0",
+    "gulp-haml": "^0.1.6",
+    "gulp-ruby-haml": "0.0.7"
+  }
+}
